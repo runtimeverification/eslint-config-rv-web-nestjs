@@ -3,6 +3,7 @@
 ## Installation
 
 ```sh
+$ yarn add -D eslint-plugin-eslint-comments eslint-plugin-unicorn
 $ yarn add -D git+https://github.com/runtimeverification/eslint-config-rv-web-nestjs.git#master
 ```
 
