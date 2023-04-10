@@ -13,3 +13,7 @@ $ yarn add -D git+https://github.com/runtimeverification/eslint-config-rv-web-ne
   "extends": ["rv-web-nestjs"]
 }
 ```
+
+## Reference
+
+- [Share Configurations](https://eslint.org/docs/latest/extend/shareable-configs)
