@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-eslint-config",
+  "name": "eslint-config-rv-web-nestjs",
   "version": "0.0.1",
   "description": "RV web nest.js eslint config",
   "main": "index.js",
