@@ -11,6 +11,7 @@ module.exports = {
   // enabling/disabling/changing level of rules
   rules: {
     '@typescript-eslint/interface-name-prefix': 'off',
+    '@typescript-eslint/prefer-nullish-coalescing': 'error',
     'unicorn/no-null': 'off',
     'unicorn/prefer-module': 'off',
     'unicorn/prefer-top-level-await': 'off',
